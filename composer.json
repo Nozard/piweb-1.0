@@ -1,0 +1,18 @@
+{
+    "name": "joker/piweb",
+    "description": "pegada de carbono",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Joker\\Piweb\\": "app/class",
+            "Joker\\Piweb\\Api\\": "app/api",
+            "Joker\\Piweb\\Config\\": "app/config"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan"
+        }
+    ],
+    "require": {}
+}
